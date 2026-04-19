@@ -132,7 +132,7 @@ MIT License 2026 Tannu
 
 Author
 Tannu
-Website:file:///C:/Users/tannu/Downloads/tannu-ai.html
+Website:/C:/Users/tannu/Downloads/tannu-ai.html
 GitHub: (https://github.com/Tannu-web/tannu-ai)
 LinkedIn: (https://www.linkedin.com/in/tannu-rawat-b98126233/)
 
