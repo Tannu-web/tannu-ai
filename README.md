@@ -40,12 +40,12 @@ git init
 git add .
 git commit -m "Initial commit: Tannu AI website"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/tannu-ai.git
+git remote add origin (https://github.com/Tannu-web/tannu-ai)
 git push -u origin main
 
 # Step 3: Go to your repo on GitHub
 # Settings -> Pages -> Source: Deploy from branch -> main -> / (root) -> Save
-# Your site will be live at: https://YOUR_USERNAME.github.io/tannu-ai
+# Your site will be live at: (https://github.com/Tannu-web/tannu-ai)
 Option B — Vercel
 bash# Step 1: Push to GitHub using the commands above
 
@@ -133,6 +133,6 @@ MIT License 2026 Tannu
 Author
 Tannu
 Website: https://your-username.github.io/tannu-ai
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
-https://github.com/Tannu-web/tannu-ai
+GitHub: (https://github.com/Tannu-web/tannu-ai)
+LinkedIn: (https://www.linkedin.com/in/tannu-rawat-b98126233/)
+
